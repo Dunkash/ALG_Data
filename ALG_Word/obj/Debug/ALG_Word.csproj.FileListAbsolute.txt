@@ -1,0 +1,7 @@
+C:\Users\Dunkash\source\repos\ALG_Word\ALG_Word\bin\Debug\ALG_Word.exe.config
+C:\Users\Dunkash\source\repos\ALG_Word\ALG_Word\bin\Debug\ALG_Word.exe
+C:\Users\Dunkash\source\repos\ALG_Word\ALG_Word\bin\Debug\ALG_Word.pdb
+C:\Users\Dunkash\source\repos\ALG_Word\ALG_Word\obj\Debug\ALG_Word.csprojAssemblyReference.cache
+C:\Users\Dunkash\source\repos\ALG_Word\ALG_Word\obj\Debug\ALG_Word.csproj.CoreCompileInputs.cache
+C:\Users\Dunkash\source\repos\ALG_Word\ALG_Word\obj\Debug\ALG_Word.exe
+C:\Users\Dunkash\source\repos\ALG_Word\ALG_Word\obj\Debug\ALG_Word.pdb
